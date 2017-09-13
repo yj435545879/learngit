@@ -15,9 +15,10 @@ Git is very good.
 Git is very well.
 
 Creating a new branch is quick.
-<<<<<<< HEAD
-
-=======
 
 Creating a new branch is quick and simple.
->>>>>>> feature1
+
+assaasdasd
+as
+443
+
