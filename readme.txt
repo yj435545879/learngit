@@ -15,5 +15,3 @@ Git is very good.
 Git is very well.
 
 Creating a new branch is quick.
-yj435545879
-yaNGJIan4355
